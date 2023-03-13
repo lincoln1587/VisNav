@@ -12,3 +12,8 @@
 ```
 git init
 ```
+2. adding files/folders to the repo
+```
+mkdir -p catkin_ws/src
+```
+
