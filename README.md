@@ -16,4 +16,8 @@ git init
 ```
 mkdir -p catkin_ws/src
 ```
+3. adding files to git 
+```
+git add filename
+```
 
